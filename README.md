@@ -27,3 +27,9 @@ Yes, the linear model predicts the mph of MechaCar prototypes effectively becaus
 Yes, the current manufactoring data does meet this design specification. All the Variances in the lots are well below 100 pounds per square inch.  
 
 ![Screen Shot 2022-07-10 at 1 09 09 AM](https://user-images.githubusercontent.com/99801608/178132167-40b2cf85-4018-4af5-a3cb-847b9c35b4b1.png)
+
+## Deliverable #3
+
+Lot one slightly differes from lot 2 and lot 3.  Lot 1 has a p-value of 1 while lot 2 and 3 has lower p-values.  see screenshot below.  
+
+![Screen Shot 2022-07-10 at 1 18 51 AM](https://user-images.githubusercontent.com/99801608/178132398-16499125-abcb-452c-be5d-733f3cf99d0c.png)
