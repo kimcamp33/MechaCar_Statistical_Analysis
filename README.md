@@ -37,3 +37,9 @@ Yes, the current manufactoring data does meet this design specification. All the
 Lot one slightly differes from lot 2 and lot 3.  Lot 1 has a p-value of 1 while lot 2 and 3 has lower p-values.  see screenshot below.  
 
 ![Screen Shot 2022-07-10 at 1 18 51 AM](https://user-images.githubusercontent.com/99801608/178132398-16499125-abcb-452c-be5d-733f3cf99d0c.png)
+
+## Deliverable #4
+
+### Design a Study Comparing the MechaCar to the Competition
+
+As an auto designer company, Auto R Us must compare their performance with their competiters.  First they nust compare the pricing with their competition and then compare the values of that pricing such as mileage, design, power, etc.  
