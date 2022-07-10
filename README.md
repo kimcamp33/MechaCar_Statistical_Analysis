@@ -1,5 +1,9 @@
 # MechaCar_Statistical_Analysis
 
+## Purpose
+
+Using R to perform an analysis of Auto R Us' production data to determine areas of improvement and make Auto R Us stand out amoung its competition.  
+
 ## Deliverable #1 
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
