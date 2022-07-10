@@ -14,7 +14,7 @@ The slope of the linear model is not considered to be zero because the p-value i
 
 Yes, the linear model predicts the mph of MechaCar prototypes effectively because the multiple R-squared is 0.7149.  
 
-Screen Shot 2022-07-09 at 11.32.20 PM
 
+![Screen Shot 2022-07-09 at 11 32 20 PM](https://user-images.githubusercontent.com/99801608/178130541-0e72b728-45e7-4220-ae62-5e9386765928.png)
 
 
